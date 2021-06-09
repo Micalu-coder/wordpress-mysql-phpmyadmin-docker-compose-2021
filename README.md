@@ -16,7 +16,7 @@ See the versions here:
 
 Now clone this repository on your console:
 
-  $ sudo git clone https://github.com/Micalu-coder/wordpress-mysql-phpmyadmin-docker-compose-2021.git
+  - $ sudo git clone https://github.com/Micalu-coder/wordpress-mysql-phpmyadmin-docker-compose-2021.git
   
 Finally add a username and password to the docker-compose.yml database part and run your container with: 
 
