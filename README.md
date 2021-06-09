@@ -10,6 +10,7 @@ Here you can see step by step the installation process on linux:
  
 **It's important to verify that your installed version of docker matches with the version of the docker-compose.yml file.**
 See the versions here: 
+
   -https://docs.docker.com/compose/compose-file/compose-versioning/
   
 
@@ -19,7 +20,7 @@ Now clone this repository on your console:
 Finally add a username and password to the docker-compose.yml database part and run your container with: 
   - $ sudo docker-compose up -d
 
-**Remember that if you have any conflict with ports you can change them in the docker-compose.yml
+**Remember that if you have any conflict with ports you can change them in the docker-compose.yml**
 
 See you! 
 
